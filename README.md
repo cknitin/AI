@@ -73,5 +73,27 @@ foundation for an AI system, and is the way we 'teach' a computer model to make 
   strategies, and enrich document search capabilities. You can use prebuilt models to add intelligent document processing for invoices, receipts, health insurance cards, tax forms, and more. You can also use Azure AI Document Intelligence to create custom models with 
   your own labeled datasets. The service features are available for use and testing in the Document Intelligence Studio and other programming languages.
 
+  ## Knowledge mining
+  extract information from large volumes of often unstructured data to create a searchable knowledge store.
+  Knowledge mining is the term used to describe solutions that involve extracting information from large volumes of often unstructured data to create a searchable knowledge store.
+  
+  ### Knowledge mining using azure
+  One Microsoft knowledge mining solution is Azure AI Search, a private, enterprise, search solution that has tools for building indexes. The indexes can then be used for internal only use, or to enable searchable content on public facing internet assets.
+  
+  Azure AI Search can utilize the built-in AI capabilities of Azure AI services such as image processing, document intelligence, and natural language processing to extract data. The product's AI capabilities makes it possible to index previously unsearchable documents 
+  and to extract and surface insights from large amounts of data quickly.
+
+  ## Generative AI 
+  create original content in a variety of formats including natural language, image, code, and 	more.
+
+  Generative AI describes a category of capabilities within AI that create original content. People typically interact with generative AI that has been built into chat applications. Generative AI applications take in natural language input, and return appropriate 
+  responses in a variety of formats including natural language, image, code, and audio.
+
+  In Microsoft Azure, you can use the Azure OpenAI service to build generative AI solutions. Azure OpenAI Service is Microsoft's cloud solution for deploying, customizing, and hosting generative AI models. It brings together the best of OpenAI's cutting edge models and 
+  APIs with the security and scalability of the Azure cloud platform.
+
+  Azure OpenAI supports many foundation model choices that can serve different needs. The service features are available for use and testing in the Azure OpenAI Studio and other programming languages. You can use the Azure OpenAI Studio user interface to manage, 
+  develop, and customize generative AI models.
+
 
 
