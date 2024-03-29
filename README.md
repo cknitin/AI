@@ -15,14 +15,15 @@ foundation for an AI system, and is the way we 'teach' a computer model to make 
   - Notebooks: write and run your own code in managed Jupyter Notebook servers that are directly integrated in the studio.
 
   ## Computer vision
-	interpret the world visually through cameras, video, and images.
+  interpret the world visually through cameras, video, and images.
   Most computer vision solutions are based on machine learning models that can be applied to visual input from cameras, videos, or images. The following table describes common computer vision tasks.
 
   ### Image classification
-  Image classification involves training a machine learning model to classify images based on their contents. For example, in a traffic monitoring solution you might use an image classification model to classify images based on the type of vehicle they contain, such as    taxis, buses, cyclists, and so on.
+  Image classification involves training a machine learning model to classify images based on their contents. For example, in a traffic monitoring solution you might use an image classification model to classify images based on the type of vehicle they contain, such as   taxis, buses, cyclists, and so on.
 
   ### Object detection
-  Object detection machine learning models are trained to classify individual objects within an image, and identify their location with a bounding box. For example, a traffic monitoring solution might use object detection to identify the location of different classes of   vehicle.
+  Object detection machine learning models are trained to classify individual objects within an image, and identify their location with a bounding box. For example, a traffic monitoring solution might use object detection to identify the location of different classes 
+  of vehicle.
 
   ### Semantic segmentation
   Semantic segmentation is an advanced machine learning technique in which individual pixels in the image are classified according to the object to which they belong. For example, a traffic monitoring solution might overlay traffic images with "mask" layers to highlight   different vehicles using specific colors.
